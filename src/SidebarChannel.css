@@ -1,4 +1,4 @@
-sidebarChannel:hover > h4 {
+.sidebarChannel:hover > h4 {
   color: white;
   background-color: #40464b;
 }
