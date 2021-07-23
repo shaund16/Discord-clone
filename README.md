@@ -3,17 +3,25 @@ Built using React, Redux and Firebase
 ## ScreenShots
 
 ### Login
-(img/login.png)
+
+Sign In
+
+![](img/login.png)
 
 ### Authentication
-(img/authentication.png)
+Google Authentication
 
-### Main 
-(img/main.png)
+![](img/authentication.png)
 
-### `npm run build`
+### Main
+Main Chats 
+![](img/main.png)
+
+
 
 ## Project Link 
 
-Hosting URL: https://discord-clone-51b36.web.app
+https://discord-clone-51b36.web.app
+
+<br>
 ******Logout by clicking the profile picture bottom left
